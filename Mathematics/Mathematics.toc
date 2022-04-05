@@ -1,0 +1,4 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {I}Base Material}{1}{section.1}%
+\contentsline {subsection}{\numberline {I.1}The Greek Alphabet}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {I.2}Algebra}{2}{subsection.1.2}%
